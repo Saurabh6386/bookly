@@ -1,5 +1,3 @@
-
-
 let cards = document.querySelector(".cards");
 function createUI() {
   blogs.books.forEach((element) => {
